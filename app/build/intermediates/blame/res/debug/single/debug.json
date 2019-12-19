@@ -1112,12 +1112,12 @@
         "source": "C:\\Users\\adria\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Users\\adria\\AndroidStudioProjects\\CapturaImatge\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
-        "source": "C:\\Users\\adria\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\adria\\AndroidStudioProjects\\CapturaImatge\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
         "source": "C:\\Users\\adria\\AndroidStudioProjects\\CapturaImatge\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\adria\\AndroidStudioProjects\\CapturaImatge\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\adria\\.gradle\\caches\\transforms-2\\files-2.1\\dfb17c32c9e1bced7bb89f3e844a7607\\appcompat-1.0.2\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\adria\\AndroidStudioProjects\\CapturaImatge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
